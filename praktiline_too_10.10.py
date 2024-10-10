@@ -11,7 +11,8 @@ a = float(input("Sisesta oma a:"))
 b = float(input("Sisesta oma b:"))
 # meie ülesandeks on leida hüpoteenus c, kolmnurga ümbermõõt ja pindala NB(vastused peavad olema ümardatud sajandikeni)
 
-hüpotenuus = ()
+hüpotenuusc = ()
+
 ümbermõõt = ()
 pindala = ()
 print(f"Lahendid on: hüpotunuus={hüpotenuus} ja ümbermõõt={ümbermõõt} ja pindala={pindala}")
